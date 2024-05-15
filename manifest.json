@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Link Nest",
+  "description": "Web link storage extension",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icons/link.png"
+  },
+  "icons": {
+    "128": "icons/link.png"
+  }
+}
